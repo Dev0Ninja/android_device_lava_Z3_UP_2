@@ -6,5 +6,6 @@
 #
 
 add_lunch_combo omni_Z3_UP_2-user
-add_lunch_combo omni_Z3_UP_2-userdebug
-add_lunch_combo omni_Z3_UP_2-eng
+#Changed the below lines for new Twrp versions
+#add_lunch_combo omni_Z3_UP_2-userdebug
+#add_lunch_combo omni_Z3_UP_2-eng
